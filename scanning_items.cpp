@@ -1,7 +1,7 @@
 /***********************************************************************************************************************
-* @file scanning_items.cpp
-* @brief scanning overhead items given a point cloud data file
-* @author khang nguyen
+* @file: scanning_items.cpp
+* @brief: scanning overhead items given a point cloud data file
+* @author: khang nguyen
 ***********************************************************************************************************************/
 
 #include "CloudVisualizer.h"
